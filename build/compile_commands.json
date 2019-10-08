@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/StajProjesi.dir/includes_CXX.rsp -g   -o CMakeFiles\\StajProjesi.dir\\src\\shaderprogram.cpp.obj -c C:\\Users\\Radwan\\Downloads\\Yazilim_Staji\\StajProjesi\\src\\shaderprogram.cpp",
+  "file": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/src/shaderprogram.cpp"
+},
+{
+  "directory": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/StajProjesi.dir/includes_CXX.rsp -g   -o CMakeFiles\\StajProjesi.dir\\src\\square.cpp.obj -c C:\\Users\\Radwan\\Downloads\\Yazilim_Staji\\StajProjesi\\src\\square.cpp",
+  "file": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/src/square.cpp"
+},
+{
+  "directory": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/StajProjesi.dir/includes_CXX.rsp -g   -o CMakeFiles\\StajProjesi.dir\\src\\circle.cpp.obj -c C:\\Users\\Radwan\\Downloads\\Yazilim_Staji\\StajProjesi\\src\\circle.cpp",
+  "file": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/src/circle.cpp"
+},
+{
+  "directory": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/StajProjesi.dir/includes_CXX.rsp -g   -o CMakeFiles\\StajProjesi.dir\\src\\Bait.cpp.obj -c C:\\Users\\Radwan\\Downloads\\Yazilim_Staji\\StajProjesi\\src\\Bait.cpp",
+  "file": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/src/Bait.cpp"
+},
+{
+  "directory": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   @CMakeFiles/StajProjesi.dir/includes_CXX.rsp -g   -o CMakeFiles\\StajProjesi.dir\\src\\main.cpp.obj -c C:\\Users\\Radwan\\Downloads\\Yazilim_Staji\\StajProjesi\\src\\main.cpp",
+  "file": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/StajProjesi.dir/includes_C.rsp -g   -o CMakeFiles\\StajProjesi.dir\\src\\glad.c.obj   -c C:\\Users\\Radwan\\Downloads\\Yazilim_Staji\\StajProjesi\\src\\glad.c",
+  "file": "C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/src/glad.c"
+}
+]

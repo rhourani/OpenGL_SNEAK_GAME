@@ -1,0 +1,3 @@
+C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/buildDers04/CMakeFiles/StajProjesi.dir
+C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/buildDers04/CMakeFiles/edit_cache.dir
+C:/Users/Radwan/Downloads/Yazilim_Staji/StajProjesi/buildDers04/CMakeFiles/rebuild_cache.dir
